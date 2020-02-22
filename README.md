@@ -1,2 +1,0 @@
-# Wordcloud
-A simple wordcloud
